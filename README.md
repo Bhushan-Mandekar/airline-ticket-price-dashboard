@@ -1,100 +1,95 @@
-📊 Airline Ticket Price Analysis Dashboard
+# 📊 Airline Ticket Price Analysis Dashboard
 
+## 📌 Project Overview
+This project is an interactive data visualization dashboard built using Microsoft Power BI to analyze airline ticket prices based on multiple influencing factors such as airline, booking time, travel class, departure/arrival time, and travel routes.
 
-📌 Project Overview
+The dashboard helps in identifying pricing patterns and provides valuable insights for decision-making.
 
-This project is an interactive dashboard built using Microsoft Power BI to analyze airline ticket prices based on multiple factors such as airline, booking time, travel class, departure and arrival time, and travel routes.
+---
 
-The goal of this project is to identify pricing patterns and provide insights useful for decision-making.
+## 🎯 Key Objectives
 
+- Analyze how ticket prices vary across different airlines  
+- Understand the impact of booking time on ticket prices  
+- Compare ticket prices between Economy and Business class  
+- Identify expensive routes based on source and destination  
+- Analyze price variation based on departure and arrival time  
 
+---
 
-🎯 Key Objectives
+## 📈 Key Insights
 
-Analyze how ticket prices vary across different airlines
+- ✈️ **Vistara has the highest average ticket price**  
+- 📅 Ticket prices **increase as the departure date approaches**  
+- 💼 **Business class tickets are significantly more expensive** than economy  
+- 🌍 Some routes are more expensive than others  
+- ⏰ Flight prices vary based on **departure and arrival time**
 
-Understand the impact of booking time on ticket prices
+---
 
-Compare ticket prices between Economy and Business class
+## 📊 Dashboard Features
 
-Identify expensive routes based on source and destination
+- KPI Cards (Average Price, Maximum Price, Minimum Price, Total Flights)  
+- Airline-wise price comparison  
+- Booking time vs price trend analysis  
+- Class-based price comparison  
+- Heat map for departure and arrival time  
+- Top 5 most expensive routes  
+- Interactive filters (Airline, Class, Destination)
 
-Analyze price variation based on departure and arrival time
+---
 
+## 🛠️ Tools & Technologies Used
 
+- Microsoft Power BI  
+- Microsoft Excel  
+- Data Visualization Techniques  
 
-📈 Key Insights
+---
 
-✈️ Vistara has the highest average ticket price among all airlines
+## 📷 Dashboard Preview
 
-📅 Ticket prices increase as the departure date approaches
+![Dashboard Screenshot](dashboard_screenshot.png)
 
-💼 Business class tickets are significantly more expensive than economy
+---
 
-🌍 Certain routes (source → destination) are more expensive than others
+## 📂 Dataset Information
 
-⏰ Flight prices vary based on departure and arrival time
+The dataset includes:
 
+- Airline  
+- Source City  
+- Destination City  
+- Departure Time  
+- Arrival Time  
+- Travel Class  
+- Days Left for Departure  
+- Ticket Price  
 
+---
 
-📊 Dashboard Features
+## 🚀 How to Use
 
-KPI Cards (Average, Maximum, Minimum Price, Total Flights)
+1. Download the `.pbix` file  
+2. Open it in Microsoft Power BI  
+3. Use filters to explore different insights  
 
-Airline-wise price comparison
+---
 
-Booking time vs price trend analysis
+## 💡 Future Improvements
 
-Class-based price comparison
+- Add machine learning model for price prediction  
+- Include more datasets for better accuracy  
+- Enhance UI with advanced Power BI visuals  
 
-Heat map for departure and arrival time analysis
+---
 
-Top 5 most expensive routes
+## 👨‍💻 Author
 
-Interactive filters (Airline, Class, Destination)
+**Bhushan Mandekar**
 
+---
 
+## ⭐ If you like this project
 
-🛠️ Tools & Technologies Used
-
-Microsoft Power BI
-
-Microsoft Excel
-
-Data Visualization Techniques
-
-📷 Dashboard Preview
-
-
-📂 Dataset
-
-The dataset contains information about:
-
-Airline
-
-Source & Destination
-
-Departure & Arrival Time
-
-Travel Class
-
-Days Left for Departure
-
-Ticket Price
-
-
-🚀 How to Use
-
-Download the .pbix file
-
-Open it in Microsoft Power BI
-
-Explore the dashboard using filters
-
-💡 Future Improvements
-
-Add predictive modeling for price forecasting
-
-Include more airline datasets
-
-Enhance UI with advanced visuals
+Give it a ⭐ on GitHub and share your feedback!
